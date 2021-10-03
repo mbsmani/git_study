@@ -1,2 +1,3 @@
 This is a git class.
+You are in branch master.
 This is learning branch.
